@@ -9,7 +9,7 @@ For specific versions, check the change log below.
 
 # Changelog
 
-## *October 25, 2019 22:20 CET* - 
+## __cratos-testnet-alpha__  *October 25, 2019 22:20 CET* - 
 
 Download the genesis here: [genesis](https://raw.githubusercontent.com/cratos-network/testnets/master/cratos-testnet-alpha/genesis.json)
 
